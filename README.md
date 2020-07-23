@@ -18,7 +18,7 @@
 #### 使用说明
 
 1.  工具安装：在您的电脑上安装Git for Windows软件
-2.  资料下载：使用Git clone命令将仓库所有文档下载到本地电脑：# git clone   https://gitee.com/wang_litao/doc.git
+2.  资料下载：使用Git clone命令将仓库所有文档下载到本地电脑：# git clone  git@github.com:wanglitao2020/doc.git  
 3.  资料更新：使用# git pull 命令，可以将本仓库更新的文档实时更新到本地电脑
 
 
